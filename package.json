@@ -22,8 +22,8 @@
     "typescript": "^4.4.4",
     "@types/react": "^17.0.35"
   },
-  "peerDependencies": {
-    "react": "^17.0.2",
-    "@kurtbuilds/lib": "github:kurtbuilds/lib#next"
+  "dependencies": {
+    "@kurtbuilds/lib": "github:kurtbuilds/lib#next",
+    "react": "^17"
   }
 }
